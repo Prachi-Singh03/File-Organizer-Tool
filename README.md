@@ -198,12 +198,6 @@ This project is licensed under the **MIT License**.
 
 ---
 
-# 👨‍💻 Author
-
-**Vinit Gajjar**
-
-- GitHub: https://github.com/vinit-0110
-
 ---
 
 ⭐ If you found this project useful, consider giving it a star!
